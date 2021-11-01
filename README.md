@@ -3,14 +3,14 @@
 
 ### Deliverable 1
 
-Read the charity_data.csv to a Pandas DataFrame.
-Dropped The EIN and NAME columns.
-The columns with more than 10 unique values have been grouped together.
-The categorical variables have been encoded using one-hot encoding.
-The preprocessed data is split into features and target arrays.
-The preprocessed data is split into training and testing datasets.
-The numerical values have been standardized using the StandardScaler module.
-The datafrme now looks like this:
+* Read the charity_data.csv to a Pandas DataFrame.
+* Dropped The EIN and NAME columns.
+* The columns with more than 10 unique values have been grouped together.
+* The categorical variables have been encoded using one-hot encoding.
+* The preprocessed data is split into features and target arrays.
+* The preprocessed data is split into training and testing datasets.
+* The numerical values have been standardized using the StandardScaler module.
+* The datafrme now looks like this:
 
 ![png_ch1910](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch1910.PNG)
 
@@ -24,11 +24,8 @@ The datafrme now looks like this:
 
 
 
-![png_ch1913](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch1913.PNG)
 
-
-
-![png_ch1915](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch1915.PNG)
+### Deliverable 2
 
 
 
@@ -44,7 +41,31 @@ The datafrme now looks like this:
 
 
 
+![png_ch198](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch198.PNG)
+
+#### Deliverable 3
+
+
+![png_ch1913](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch1913.PNG)
+
+
+
+
+
+
+![png_ch1915](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch1915.PNG)
+
+
+
+
+
+
+
+
+
 ![png_ch191](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch191.PNG)
+
+
 
 
 
@@ -80,7 +101,6 @@ The datafrme now looks like this:
 
 
 
-![png_ch198](https://github.com/Ruma-T/Neural_Network_Charity_Analysis/blob/main/resources/ch198.PNG)
 
 
 
